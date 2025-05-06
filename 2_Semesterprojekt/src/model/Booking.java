@@ -1,7 +1,6 @@
 package model;
-/**
- * Author: Mikal
- */
+
+
 public class Booking {
 	private String bookingNo;
 	private String bookingDate;

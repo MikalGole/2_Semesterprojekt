@@ -17,7 +17,7 @@ public class Customer {
 		this.address = address;
 	}
 	
-	// getters and setters for name
+	// getter and setter for name
 	public String getName() {
 		return name;
 	}
@@ -25,7 +25,7 @@ public class Customer {
 		this.name = name;
 	}
 
-	// getters and setters for email
+	// getter and setter for email
 	public String getEmail() {
 		return email;
 	}
@@ -33,7 +33,7 @@ public class Customer {
 		this.email = email;
 	}
 
-	// getters and setters for phoneNo
+	// getter and setter for phoneNo
 	public String getPhoneNo() {
 		return phoneNo;
 	}
@@ -41,7 +41,7 @@ public class Customer {
 		this.phoneNo = phoneNo;
 	}
 
-	// getters and setters for workerID
+	// getter and setter for workerID
 	public String getWorkerID() {
 		return workerID;
 	}
@@ -49,7 +49,7 @@ public class Customer {
 		this.workerID = workerID;
 	}
 
-	// getters and setters for address
+	// getter and setter for address
 	public String getAddress() {
 		return address;
 	}

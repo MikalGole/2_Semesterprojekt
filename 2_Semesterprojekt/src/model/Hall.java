@@ -1,15 +1,21 @@
 package model;
-/**
- * Author: Mikal
- */
+
+import java.util.ArrayList;
+
 public class Hall {
 	private String hallNo;
 	private int totalSeats;
+	private ArrayList<Seat> seat;
 	
 	public Hall(String hallNo, int totalSeats) {
 		this.hallNo = hallNo;
 		this.totalSeats = totalSeats;
 	}
+	
+	public void addSeat(Seat seat) {
+		
+	}
+	
 	
 	// getters and setters for hallNo
 	public String getHallNo() {

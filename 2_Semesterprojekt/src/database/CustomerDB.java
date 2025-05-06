@@ -1,4 +1,4 @@
-package dbaccess;
+package database;
 
 public class CustomerDB {
 
